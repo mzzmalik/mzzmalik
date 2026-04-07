@@ -1,68 +1,81 @@
-# 👋 Hi, I'm Zain
+# Muhammad Zain Zeeshan Malik
 
-🎓 **Student @ UNC Chapel Hill**  
-Majoring in **Applied Mathematics & Computer Science**  
-Minoring in **Pre-Business Administration**  
-📍 Class of 2028 | Honors Carolina Scholar
+Computer Science & Economics @ UNC Chapel Hill  
+Honors Carolina Scholar | BCG Global Case Competition Winner  
 
 ---
 
-## 🏆 Awards & Achievements
-- 🥇 **1st Place** – BCG Global Business Case Competition @ IC@UNC-Chapel Hill
-- 🌎 **Top 10 Globally** – International Economics Olympiad (Business Case Round)
-- 🥇 **Gold Medalist** – American Mathematics Olympiad (1st in Pakistan)
-- 🥉 **Bronze Medalist** – National Geography Olympiad | 🇵🇰 Rep. at iGeo 2022
-- 🏅 **Outstanding Delegate** – Harvard Model United Nations
+## About Me
+
+I build systems that actually work — not just pass tests.
+
+Right now, I’m focused on:
+- backend systems and APIs
+- multithreaded/concurrent systems
+- applied machine learning (RL, recommendation systems)
+- building fast, practical tools for real-world use
+
+I like thinking in terms of:
+> performance, scale, and clean architecture
 
 ---
 
-## 💼 Work & Leadership Experience
+## What I’m Working On
 
-### 🌍 **Senior Marketing Consultant**  
-*International Consulting, UNC*  
-- Developed strategies to boost membership  
-- Designed branded materials (flyers, posters, digital assets)  
-- Strategic consulting in Belize (May 2025): Banking, Pharma, Agriculture
-
-### 🧠 **Head Mentor & Consultant**  
-*Scaryammi, Lahore*  
-- Mentored 25+ students across 6+ schools  
-- Created 20+ learning and growth modules
-
-### 🗣️ **Founder & CEO – Speech Lab**  
-- Designed & taught Public Speaking courses  
-- Ran MUN, Declamation, Interview prep workshops  
-- Earned $1000+ in first training cohort
-
-### 📊 **Non-Profit Market Analyst**  
-*Fundraise Up, Brooklyn, NY*  
-- Wrote market expansion report focused on global TAM & SAM  
-- Proposed entry into developing markets (3% revenue boost)
+- Reinforcement learning–based recommendation systems (Digital Health & Economic Policy Lab)
+- Scalable ML pipelines using Python, AWS, and Docker
+- Building Cognify — a startup studio focused on fast, AI-powered tools for early-stage founders
 
 ---
 
-## 📣 Campus Involvement
-- **Ambassador** – Honors Carolina Student Association  
-- **Freshman Representative** – UNC Pakistan Society  
-- **Event Organizer** – Mehndi, Game Night, Potluck (~200 attendees)
+## Projects
+
+### Campus Navigation Engine
+Java, REST APIs, OkHttp, JSON  
+Built an end-to-end system integrating geocoding and routing APIs to generate structured directions from location queries, with caching to reduce redundant requests.
 
 ---
 
-## 💻 Tech & Skills
-
-**Languages:**  
-Python, Java, JavaScript, HTML, SQL, STATA, R, LaTeX  
-
-**Tools & Concepts:**  
-SEO, Microsoft Office, Curriculum Development, Qualitative Analysis
-
-**Spoken Languages:**  
-English, Urdu, Hindi, French (basic), Punjabi (basic)
+### Concurrent Resource Management System
+Java, Multithreading  
+Designed a multi-threaded system coordinating concurrent workers accessing shared resources using synchronization and locking mechanisms.
 
 ---
 
-## 📫 Get in Touch
-
-📧 Email: zainzeeshan143@gmail.com
+### Grid-Based Game Engine
+Java, JavaFX, MVC  
+Architected a modular game engine with MVC design and reactive UI updates using the Observer pattern.
 
 ---
+
+## Experience
+
+### Machine Learning Engineer — AI@UNC  
+Working on reinforcement learning systems for real-world resource allocation problems, integrating human feedback into recommendation pipelines.
+
+### Software Development Intern — NeuroHeap  
+Built and improved frontend systems using React and Tailwind, and implemented secure authentication with JWT/OAuth.
+
+---
+
+## Tech Stack
+
+Languages: Java, Python, JavaScript, C/C++  
+Frameworks/Tools: React, Tailwind, Docker, Git, AWS  
+Concepts: Multithreading, System Design, APIs, Machine Learning  
+
+---
+
+## What I Care About
+
+- building things that scale
+- writing clean, understandable code
+- shipping fast and iterating faster
+- solving real problems, not just academic ones
+
+---
+
+## Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/mzzmalik  
+Email: mzzmalik@unc.edu  
